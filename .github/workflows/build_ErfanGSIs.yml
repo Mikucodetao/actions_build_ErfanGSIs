@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://cloud189-liaoning-person.oos-lnsy.ctyunapi.cn/bd4571ef-5f86-4581-8485-9da2838e9da8?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=532482dfdc85e5d60592&x-amz-UID=588274965&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22miui_MIDO_21.8.18_0e9fee839e_11.0.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D50%2Cconcurrency%3D12&Signature=LfGAhFyTcDeMkg0PVm6zmFY48Z0%3D&x-amz-SHID=1155511078042&Expires=1629882965&x-amz-FSIZE=1868668725&x-amz-UFID=61552314065291529
+  ROM_URL: https://media-gdgz-person.gdoss.xstore.ctyun.cn/PERSONCLOUD/b7845b7c-333f-4296-b182-7579b181879a.zip?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=B12spNbFIkHcJjk5MvKN&x-amz-UID=588274965&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22xiaomi.eu.multi.HMNote4X_21.4.14-12-10.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D50%2Cconcurrency%3D10&Signature=OXrs6vGxzVAIWHJ7nqRapoxU8ZE%3D&x-amz-SHID=1142111078746&Expires=1629887460&x-amz-FSIZE=1944202184&x-amz-UFID=21467114093661286
   ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  BUILD_TYPE: aonly
   TZ: Asia/Shanghai
 
 jobs:
