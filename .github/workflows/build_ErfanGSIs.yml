@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: http://download.h2os.com/OnePlus5/MP/OnePlus5Hydrogen_23_OTA_065_all_2012030353_e8c692aa5e0c45ca.zip
   ROM_NAME: OxygenOS
-  BUILD_TYPE: Aonly
+  BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
 jobs:
